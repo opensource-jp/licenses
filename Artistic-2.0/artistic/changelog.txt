@@ -1,0 +1,32 @@
+The Artistic License 日本語訳
+変更履歴
+
+The Artistic License 日本語訳 1.0.5
+2001年(平成13年)6月6日(水)
+*) COPYRIGHT.txtの誤りを訂正。
+
+The Artistic License 日本語訳 1.0.4
+2001年(平成13年)5月30日(水)
+*) ライセンスを英語に変更。
+*) 変更履歴のファイル名を
+Changelog.txtからchangelog.txtに変更。
+
+The Artistic License 日本語訳 1.0.3
+2001年(平成13年)5月18日(金)
+*) manコマンド用マニュアルの
+圧縮版を削除。makeで圧縮するようにした。
+*) 変更履歴の書式を変更。
+
+The Artistic License 日本語訳 1.0.2
+2001年(平成13年)5月1日(火)
+*) Makefileを変更。"make all"で
+むだな処理をしないようにした。
+
+The Artistic License 日本語訳 1.0.1
+2001年(平成13年)4月15日(日)
+*) manページの非圧縮版を追加。
+*) 連絡先の電子メールアドレスを変更。
+
+The Artistic License 日本語訳 1.0.0
+2001年(平成13年)3月11日(日)
+*) 初リリース。
