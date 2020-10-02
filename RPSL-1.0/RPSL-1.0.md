@@ -174,9 +174,9 @@ Cで定義する「ライセンサ商標規定」で許可されている場合�
 "Copyright © 1995-2002 RealNetworks,
 Inc.、またはそのライセンサ、あるいはその両方。All Rights Reserved.
 
-このファイル、およびこのファイルに付随する各ファイルの内容は、RealNetworksパブリックソースライセンス、バージョン1.0（"RPSL"）の現行バージョン（https://www.helixcommunity.org/content/rpslから入手可能）の対象になります。ただし、RealNetworks
+このファイル、およびこのファイルに付随する各ファイルの内容は、RealNetworksパブリックソースライセンス、バージョン1.0（"RPSL"）の現行バージョン（https://www.helixcommunity.org/content/rpsl から入手可能）の対象になります。ただし、RealNetworks
 Community Source License Version
-1.0（"RCSL"）（https://www.helixcommunity.org/content/rcslから入手可能)に基づいてこのファイルにライセンス付与している場合はこの限りではなく、この場合は、RCSLが適用されます。RealNetworksから直接ライセンス条件を取得することもできます。このファイルは、RPSLに準拠しない限り、またはこのファイルに適用可能なRealNetworksの有効なRCSLを有している場合はRCSLに準拠しない限り、使用することはできません。このファイルの内容を使用する上での権利、義務、制限については、適用可能なRPSLまたはRCSLを参照してください。
+1.0（"RCSL"）（https://www.helixcommunity.org/content/rcsl から入手可能)に基づいてこのファイルにライセンス付与している場合はこの限りではなく、この場合は、RCSLが適用されます。RealNetworksから直接ライセンス条件を取得することもできます。このファイルは、RPSLに準拠しない限り、またはこのファイルに適用可能なRealNetworksの有効なRCSLを有している場合はRCSLに準拠しない限り、使用することはできません。このファイルの内容を使用する上での権利、義務、制限については、適用可能なRPSLまたはRCSLを参照してください。
 
 このファイルは、Helix DNA
 Technologyの一部を構成しています。RealNetworksは、「オリジナルコード」の開発者であり、当該作成部分について著作権を有します。
