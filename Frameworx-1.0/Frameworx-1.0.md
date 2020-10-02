@@ -1,11 +1,11 @@
-THE FRAMEWORX OPEN LICENSE 1.0 {#h1-THE.20FRAMEWORX.20OPEN.20LICENSE.201.0}
+THE FRAMEWORX OPEN LICENSE 1.0 
 ==============================
 
 あなたがFrameworxコードベースまたはダウンストリームディストリビューション（いずれも下で定義）を受け取った時点から、このライセンス契約（Frameworx
 Open License 1.0）がFrameworx
 Companyとあなた（ライセンシー）の間で結ばれて有効になっています。
 
-<span style="text-decoration: underline;">契約の背景にあるもの</span> {#h2-.E5.A5.91.E7.B4.84.E3.81.AE.E8.83.8C.E6.99.AF.E3.81.AB.E3.81.82.E3.82.8B.E3.82.82.E3.81.AE}
+<span style="text-decoration: underline;">契約の背景にあるもの</span> 
 ---------------------------------------------------------------------
 
 Frameworx
@@ -13,7 +13,7 @@ Companyは、オープンソースソフトウェアが品質を高め、市場�
 私たちの目標は、Frameworxコードベースおよびこれに対する改良と新工夫のためのソースコードがコミュニティにとってフリーかつオープンであり続けるようにすることです。
 こうした信念と目標を実現すべく、私たちは本ライセンス契約に従って、Frameworxコードベースをソースコード形式で使用料を課さずにコミュニティに頒布しています。
 
-<span style="text-decoration: underline;">契約の条項</span> {#h2-.E5.A5.91.E7.B4.84.E3.81.AE.E6.9D.A1.E9.A0.85}
+<span style="text-decoration: underline;">契約の条項</span> 
 -----------------------------------------------------------
 
 Frameworx Companyとあなたは以下の点で合意しているものとします。
@@ -135,7 +135,7 @@ Open LicenseまたはFrameworx
 Companyにより付与される別のライセンスに基づいて得られたものです。
 これを使用したり頒布したりする場合は、該当するライセンスに書かれている制限事項およびライセンサーの著作権を遵守してください。
 Frameworx Open
-Licenseのコピーは付属の*the\_frameworx\_license.txt*ファイルに入っており、*[http://www.frameworx.comでも確認できます。](http://www.frameworx.com%E3%81%A7%E3%82%82%E7%A2%BA%E8%AA%8D%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82){.external}*
+Licenseのコピーは付属の*the\_frameworx\_license.txt*ファイルに入っており、*[http://www.frameworx.com](http://www.frameworx.com)* でも確認できます。
 
 </div>
 
