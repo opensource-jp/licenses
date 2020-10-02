@@ -523,7 +523,7 @@ Open Source License
 style="mso-spacerun: yes"> 
 </span>本ファイルの複製または使用は、ソースコード形式と実行可能形式のいずれの場合も、本ライセンスを遵守しない限りは行うことができません。<span
 style="mso-spacerun: yes"> 
-</span>本ライセンスのコピーはhttp://www.jabber.com/license/またはhttp://www.opensource.org/から入手することができます。</span>
+</span>本ライセンスのコピーはhttp://www.jabber.com/license/ またはhttp://www.opensource.org/ から入手することができます。</span>
 
 <span
 style="FONT-SIZE: 11pt; mso-bidi-font-size: 12.0pt">本ライセンスに基づいて配布されるソフトウェアは、現状のままで配布され、明示的か暗黙的かを問わず、いかなる種類の保証もありません。<span
@@ -539,7 +539,7 @@ Inc.に帰属する部分については、著作権はJabber.com,
 Inc.にあります。Copyright (c) 1999-2000 Jabber.com, Inc.<span
 style="mso-spacerun: yes">  </span>All Rights Reserved.<span
 style="mso-spacerun: yes">  </span>Jabber.com,
-Inc.に連絡をとるための情報はhttp://www.jabber.com/から入手できます。
+Inc.に連絡をとるための情報はhttp://www.jabber.com/ から入手できます。
 </span>
 
 <span style="FONT-SIZE: 11pt; mso-bidi-font-size: 12.0pt">Portions
