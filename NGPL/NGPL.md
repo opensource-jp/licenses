@@ -1,8 +1,8 @@
-Nethack一般公有使用許諾書 {#nethack一般公有使用許諾書 align="center"}
+Nethack一般公有使用許諾書 
 =========================
 
-### Copyright (c) 1989 M. Stephenson\
-(Based on the BISON general public license, copyright 1988 Richard M. Stallman) {#copyright-c-1989-m.-stephenson-based-on-the-bison-general-public-license-copyright-1988-richard-m.-stallman align="center"}
+### Copyright (c) 1989 M. Stephenson
+(Based on the BISON general public license, copyright 1988 Richard M. Stallman) 
 
 何人も、以下の内容を変更せずにそのまま複写する場合に限り、本使用許諾書を複製および頒布することができます。
 また、本使用許諾書の文言を使用して、他のプログラムの条件とすることもできます。
@@ -25,7 +25,7 @@ NetHackが他の誰かによって変更され、頒布された場合、受領�
 以上の理由から、我々（Mike
 Stephenson、および他のNetHack著作権保持者）は、NetHackの頒布または変更に関する条件を次のように定めます。
 
-複製に関するポリシー {#複製に関するポリシー align="center"}
+複製に関するポリシー 
 --------------------
 
 1.  あなたは、どのような媒体上へ複製しようとする場合であっても、入手したNetHackのソース・コードをそのままの内容で複写した上で、著作権、本使用許諾契約、および無保証に言及するすべてのファイル上の記載部分を元のままの形で表示する場合に限り、複製または頒布することができます。NetHackプログラムのその他の受領者に対しては、プログラムと共に本使用許諾契約の写しを渡してください。
