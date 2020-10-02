@@ -1,4 +1,4 @@
-The Educational Community License {#h1-The.20Educational.20Community.20License}
+The Educational Community License 
 =================================
 
 このEducational Community
