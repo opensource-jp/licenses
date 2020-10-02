@@ -1,4 +1,4 @@
-The Artistic License 日本語訳 1.0 {#h1-The.20Artistic.20License.20.E6.97.A5.E6.9C.AC.E8.AA.9E.E8.A8.B3.201.0}
+The Artistic License 日本語訳 1.0
 =================================
 
 2001年(平成13年)3月5日(月)\
@@ -6,7 +6,7 @@ The Artistic License 日本語訳 1.0 {#h1-The.20Artistic.20License.20.E6.97.A5.
 Copyright 1989-1999, Larry Wall\
 翻訳 大原雄馬\
 Copyright (C) 2001 大原雄馬\
-oohara@libra.interq.or.jp\
+oohara@libra.interq.or.jp
 
 The Artistic Licenseはもともとperlの
 利用条件でした。現在では他のソフトも The Artistic
@@ -23,7 +23,7 @@ Licenseを利用条件としています。
 
 ------------------------------------------------------------------------
 
-「アーティスティックライセンス」 {#h1-.E3.80.8C.E3.82.A2.E3.83.BC.E3.83.86.E3.82.A3.E3.82.B9.E3.83.86.E3.82.A3.E3.83.83.E3.82.AF.E3.83.A9.E3.82.A4.E3.82.BB.E3.83.B3.E3.82.B9.E3.80.8D}
+「アーティスティックライセンス」 
 ================================
 
 **前文**
@@ -220,5 +220,5 @@ d)「著作権所有者」と配布に関する別の 取り決めをする。
 変更履歴\
 The Artistic License 日本語訳 1.0\
 2001年(平成13年)3月5日(月)\
-日本語に翻訳。\
+日本語に翻訳。
 
