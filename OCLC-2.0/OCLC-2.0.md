@@ -53,12 +53,12 @@ Library Center, Inc. and other contributors. All rights reserved.
 Researchパブリック・ライセンス・バージョン2.0（以下「ライセンス」）に従属し、その時々にOCLC
 Office of Researchによって更新されます。
 ライセンスに従うことなく、本ファイルを使用することはできません。
-最新版のライセンスは、http://purl.oclc.org/oclc/research/ORPL/から入手できます。
+最新版のライセンスは、http://purl.oclc.org/oclc/research/ORPL/ から入手できます。
 ライセンスに基づいて頒布されるソフトウェアは、「現状のまま」で、明示であるか暗黙であるかを問わず何らの保証もなく頒布されます。
 ライセンスに基づいて権利および制限を定めている具体的な文言については、ライセンスを参照してください。
 本ソフトウェアは、多数の個人がOCLC
 Researchのために行う自発的な貢献によって成り立っています。 OCLC
-Researchの詳細については、http://www.oclc.org/oclc/research/を参照してください。
+Researchの詳細については、http://www.oclc.org/oclc/research/ を参照してください。
 オリジナル・コードは
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 です。 オリジナル・コードの最初の開発者は
