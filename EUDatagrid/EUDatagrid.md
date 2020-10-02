@@ -10,7 +10,7 @@ Copyright (c) 2001 EU DataGrid. All rights reserved.
 
 本ソフトウェアには、EU
 DataGridのために行われた自発的な貢献が含まれています。EU
-DataGridの詳細については、http://www.eu-datagrid.org/を参照してください。
+DataGridの詳細については、http://www.eu-datagrid.org/ を参照してください。
 
 変更するか否かを問わず、ソースコード形式およびバイナリ形式での、本ソフトウェアのインストール、使用、複製、表示、改変、再頒布を許可します。あなた、またはあなたからサブライセンスを受けた被許諾者が、本ライセンスに基づいて行う権利の行使は、以下の条件に従わなければなりません。
 
@@ -19,7 +19,7 @@ DataGridの詳細については、http://www.eu-datagrid.org/を参照してく
 
 2.
 ユーザドキュメントが再頒布物に含まれる場合、次の通知を表示しなければなりません。"本製品には、EU
-DataGrid（http://www.eu-datagrid.org/）の開発によるソフトウェアが含まれています。"
+DataGrid（http://www.eu-datagrid.org/ ）の開発によるソフトウェアが含まれています。"
 
 あるいは、第三者の謝辞が一般に表示される箇所には、その謝辞をソフトウェアに転載しなければなりません。
 
