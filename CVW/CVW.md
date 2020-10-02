@@ -4,7 +4,7 @@ MITRE Collaborative Virtual Workspace License (CVW License)
 `                         `
 
 ### Collaborative Virtual Workspace License (CVW)\
-License Agreement {#collaborative-virtual-workspace-license-cvw-license-agreement align="center"}
+License Agreement
 
 #### 通則
 
