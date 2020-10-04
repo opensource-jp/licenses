@@ -62,7 +62,7 @@
 | CNRI Python license | [CNRI-Python](CNRI-Python/CNRI-Python.md)  |   | 自由
 | Q Public License | [QPL-1.0](QPL-1.0/QPL-1.0.md) |  | 非両立
 | RealNetworks Public Source License V1.0 | [RPSL-1.0](RPSL-1.0/RPSL-1.0.md) |  | 非両立
-| Reciprocal Public License, version 1.1 | [RPL-1.1](RPL-1.1/RPL-1.1.md)  | 置換
+| Reciprocal Public License, version 1.1 | [RPL-1.1](RPL-1.1/RPL-1.1.md)  | 置換 | 不自由
 | Ricoh Source Code Public License | [RSCPL](RSCPL/RSCPL.md) 
 | SIL Open Font License 1.1 | [OFL-1.1](OFL-1.1/OFL-1.1.md) |  | 非両立
 | Sleepycat License | [Sleepycat](Sleepycat/Sleepycat.md) |  | 自由
