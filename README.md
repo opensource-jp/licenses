@@ -26,7 +26,7 @@
 | Common Public License 1.0 | [CPL-1.0](CPL-1.0/CPL-1.0.md)  | 置換 | 非両立
 | CUA Office Public License Version 1.0 | [CUA-OPL-1.0](CUA-OPL-1.0/CUA-OPL-1.0.md)  | 廃止
 | Eclipse Public License 1.0 | [EPL-1.0](EPL-1.0/EPL-1.0.md)  | 置換 | 非両立
-| Eclipse Public License 2.0 | [EPL-2.0](EPL-2.0/EPL-2.0.md)  | 人気
+| Eclipse Public License 2.0 | [EPL-2.0](EPL-2.0/EPL-2.0.md)  | 人気 | 非両立
 | Educational Community License, Version 1.0 | [ECL-1.0](ECL-1.0/ECL-1.0.md)  | 置換
 | Eiffel Forum License V1.0 | [EFL-1.0](EFL-1.0/EFL-1.0.md)  | 置換
 | Eiffel Forum License V2.0 | [EFL-2.0](EFL-2.0/EFL-2.0.md)  |   | 自由
@@ -71,7 +71,7 @@
 | Sybase Open Watcom Public License 1.0 | [Watcom-1.0](Watcom-1.0/Watcom-1.0.md) |  | 不自由
 | University of Illinois/NCSA Open Source License | [NCSA](NCSA/NCSA.md) |  | 自由
 | Vovida Software License v. 1.0 | [VSL-1.0](VSL-1.0/VSL-1.0.md) 
-| wxWindows Library License | [WXwindows](WXwindows/WXwindows.md) 
+| wxWindows Library License | [WXwindows](WXwindows/WXwindows.md) |  | 自由
 | X.Net License | [Xnet](Xnet/Xnet.md) 
 | Zope Public License 2.0 | [ZPL-2.0](ZPL-2.0/ZPL-2.0.md) |  | 自由
 | zlib/libpng license | [Zlib](Zlib/Zlib.md) |  | 自由
