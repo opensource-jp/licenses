@@ -51,6 +51,7 @@
 | Motosoto License | [Motosoto](Motosoto/Motosoto.md) 
 | Mozilla Public License 1.0 | [MPL-1.0](MPL-1.0/MPL-1.0.md)  | 置換 | 非両立
 | Mozilla Public License 1.1 | [MPL-1.1](MPL-1.1/MPL-1.1.md)  | 置換 | 非両立
+| Mozilla Public License 2.0 | [MPL-2.0](MPL-2.0/MPL-2.0.md)  | 人気 | 自由
 | NASA Open Source Agreement 1.3 | [NASA-1.3](NASA-1.3/NASA-1.3.md) |  | 不自由
 | Naumen Public License | [Naumen](Naumen/Naumen.md) 
 | Nokia Open Source License | [Nokia](Nokia/Nokia.md) |  | 非両立
