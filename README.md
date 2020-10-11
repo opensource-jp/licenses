@@ -10,7 +10,7 @@
 ## ライセンスリスト
 
 
-| ライセンス名                                     | 短識別子           |原文| OSI区分| FSF区分|
+| ライセンス名                                     | 短識別子           |原文| OSI<br>区分| FSF<br>区分|
 |------------------------------------------------|-------------------|---|-------|------|
 | [0-clause BSD License](0BSD/0BSD.md) | [0BSD](0BSD/0BSD.md) |[原文](https://opensource.org/licenses/0BSD)|  |  |
 | [1-clause BSD License](BSD-1-Clause/BSD-1-Clause.md) | [BSD-1-Clause](BSD-1-Clause/BSD-1-Clause.md) |[原文](https://opensource.org/licenses/BSD-1-Clause)|  | 自由 |
