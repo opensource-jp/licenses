@@ -23,6 +23,7 @@
 | [Artistic license 1.0](Artistic-1.0/Artistic-1.0.md) | [Artistic-1.0](Artistic-1.0/Artistic-1.0.md)  |[原文](https://opensource.org/licenses/Artistic-1.0)| 置換 | 不自由
 | [Artistic License 2.0](Artistic-2.0/Artistic-2.0.md) | [Artistic-2.0](Artistic-2.0/Artistic-2.0.md)  |[原文](https://opensource.org/licenses/Artistic-2.0)|  | 自由
 | [Attribution Assurance License](AAL/AAL.md) | [AAL](AAL/AAL.md) |[原文](https://opensource.org/licenses/AAL/)|
+| [Boost Software License](BSL-1.0/BSL-1.0.md) | [BSL-1.0](BSL-1.0/BSL-1.0.md) |[原文](https://opensource.org/licenses/BSL-1.0)|   | 自由
 | [Common Development and Distribution License 1.0](CDDL-1.0/CDDL-1.0.md) | [CDDL-1.0](CDDL-1.0/CDDL-1.0.md) |[原文](https://opensource.org/licenses/CDDL-1.0)| 人気 | 非両立
 | [Common Public License 1.0](CPL-1.0/CPL-1.0.md) | [CPL-1.0](CPL-1.0/CPL-1.0.md)  |[原文](https://opensource.org/licenses/CPL-1.0)| 置換 | 非両立
 | [CUA Office Public License Version 1.0](CUA-OPL-1.0/CUA-OPL-1.0.md) | [CUA-OPL-1.0](CUA-OPL-1.0/CUA-OPL-1.0.md)  |[原文](https://opensource.org/licenses/CUA-OPL-1.0)| 廃止
