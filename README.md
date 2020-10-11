@@ -12,6 +12,7 @@
 
 | ライセンス名                                     | 短識別子           |原文| OSI区分| FSF区分|
 |------------------------------------------------|-------------------|---|-------|------|
+| [0-clause BSD License](0BSD/0BSD.md) | [0BSD](0BSD/0BSD.md) |[原文](https://opensource.org/licenses/0BSD)|  |  |
 | [1-clause BSD License](BSD-1-Clause/BSD-1-Clause.md) | [BSD-1-Clause](BSD-1-Clause/BSD-1-Clause.md) |[原文](https://opensource.org/licenses/BSD-1-Clause)|  | 自由 |
 | [2-clause BSD License](BSD-2-Clause/BSD-2-Clause.md) | [BSD-2-Clause](BSD-2-Clause/BSD-2-Clause.md)  |[原文](https://opensource.org/licenses/BSD-2-Clause)| 人気 | 自由
 | [3-clause BSD License](BSD-3-Clause/BSD-3-Clause.md) | [BSD-3-Clause](BSD-3-Clause/BSD-3-Clause.md)  |[原文](https://opensource.org/licenses/BSD-3-Clause)| 人気 | 自由
