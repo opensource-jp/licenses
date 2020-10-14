@@ -502,7 +502,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "//ISC.html",
+      "reference": "/ISC/ISC.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/ISC/",
