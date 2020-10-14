@@ -1,5 +1,7 @@
 {
-  "licenseListVersion": "v20201013-jp",
+  "licenseListVersion": "v20201014-jp",
+  "releaseDate": "2020-10-14",
+  "referencesSiteUrl": "https://licenses.opensource.jp",
   "licenses": [
     {
       "reference": "/0BSD/0BSD.html",
@@ -1041,5 +1043,4 @@
       "isOsiApproved": true
     },
   ],
-  "releaseDate": "2020-10-13"
 }
