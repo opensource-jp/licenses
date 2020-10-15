@@ -1,10 +1,10 @@
 {
-  "licenseListVersion": "v20201014-jp",
-  "releaseDate": "2020-10-14",
-  "referencesSiteUrl": "https://licenses.opensource.jp",
+  "licenseListVersion": "v20201015-jp",
+  "releaseDate": "2020-10-15",
+  "referencesSiteUrl": "https://licenses.opensource.jp/",
   "licenses": [
     {
-      "reference": "/0BSD/0BSD.html",
+      "reference": "./0BSD/0BSD.html",
       "isDeprecatedLicenseId": false,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/0BSD/",
       "name": "BSD Zero Clause License",
@@ -15,7 +15,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/AAL/AAL.html",
+      "reference": "./AAL/AAL.html",
       "isDeprecatedLicenseId": false,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/AAL/",
       "name": "Attribution Assurance License",
@@ -26,7 +26,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/AFL-2.0/AFL-2.0.html",
+      "reference": "./AFL-2.0/AFL-2.0.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/AFL-2.0/",
@@ -38,7 +38,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/AGPL-3.0/AGPL-3.0.html",
+      "reference": "./AGPL-3.0/AGPL-3.0.html",
       "isDeprecatedLicenseId": true,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/AGPL-3.0/",
@@ -51,7 +51,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/AGPL-3.0/AGPL-3.0-only.html",
+      "reference": "./AGPL-3.0/AGPL-3.0-only.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/AGPL-3.0/",
@@ -64,7 +64,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/AGPL-3.0/AGPL-3.0-or-later.html",
+      "reference": "./AGPL-3.0/AGPL-3.0-or-later.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/AGPL-3.0/",
@@ -77,7 +77,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/APSL-2.0/APSL-2.0.html",
+      "reference": "./APSL-2.0/APSL-2.0.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/APSL-2.0/",
@@ -89,7 +89,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/Apache-1.1/Apache-1.1.html",
+      "reference": "./Apache-1.1/Apache-1.1.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/Apache-1.1/",
@@ -102,7 +102,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/Apache-2.0/Apache-2.0.html",
+      "reference": "./Apache-2.0/Apache-2.0.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/Apache-2.0/",
@@ -115,7 +115,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/Artistic-1.0/Artistic-1.0.html",
+      "reference": "./Artistic-1.0/Artistic-1.0.html",
       "isDeprecatedLicenseId": false,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/Artistic-1.0/",
       "name": "Artistic License 1.0",
@@ -126,7 +126,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/Artistic-2.0/Artistic-2.0.html",
+      "reference": "./Artistic-2.0/Artistic-2.0.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/Artistic-2.0/",
@@ -139,7 +139,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/BSD-1-Clause/BSD-1-Clause.html",
+      "reference": "./BSD-1-Clause/BSD-1-Clause.html",
       "isDeprecatedLicenseId": false,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/BSD-1-Clause/",
       "name": "BSD 1-Clause License",
@@ -150,7 +150,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/BSD-2-Clause/BSD-2-Clause.html",
+      "reference": "./BSD-2-Clause/BSD-2-Clause.html",
       "isDeprecatedLicenseId": false,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/BSD-2-Clause/",
       "name": "BSD 2-Clause \"Simplified\" License",
@@ -161,7 +161,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/BSD-2-Clause-Patent/BSD-2-Clause-Patent.html",
+      "reference": "./BSD-2-Clause-Patent/BSD-2-Clause-Patent.html",
       "isDeprecatedLicenseId": false,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/BSD-2-Clause-Patent/",
       "name": "BSD-2-Clause Plus Patent License",
@@ -172,7 +172,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/BSD-3-Clause/BSD-3-Clause.html",
+      "reference": "./BSD-3-Clause/BSD-3-Clause.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/BSD-3-Clause/",
@@ -184,7 +184,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/BSD-3-Clause-LBNL/BSD-3-Clause-LBNL.html",
+      "reference": "./BSD-3-Clause-LBNL/BSD-3-Clause-LBNL.html",
       "isDeprecatedLicenseId": false,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/BSD-3-Clause-LBNL/",
       "name": "Lawrence Berkeley National Labs BSD variant license",
@@ -195,7 +195,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/BSL-1.0/BSL-1.0.html",
+      "reference": "./BSL-1.0/BSL-1.0.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/BSL-1.0/",
@@ -208,7 +208,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/CDDL-1.0/CDDL-1.0.html",
+      "reference": "./CDDL-1.0/CDDL-1.0.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/CDDL-1.0/",
@@ -220,7 +220,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/CNRI-Python/CNRI-Python.html",
+      "reference": "./CNRI-Python/CNRI-Python.html",
       "isDeprecatedLicenseId": false,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/CNRI-Python/",
       "name": "CNRI Python License",
@@ -231,7 +231,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/CPL-1.0/CPL-1.0.html",
+      "reference": "./CPL-1.0/CPL-1.0.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/CPL-1.0/",
@@ -243,7 +243,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/CUA-OPL-1.0/CUA-OPL-1.0.html",
+      "reference": "./CUA-OPL-1.0/CUA-OPL-1.0.html",
       "isDeprecatedLicenseId": false,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/CUA-OPL-1.0/",
       "name": "CUA Office Public License v1.0",
@@ -254,7 +254,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/ECL-1.0/ECL-1.0.html",
+      "reference": "./ECL-1.0/ECL-1.0.html",
       "isDeprecatedLicenseId": false,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/ECL-1.0/",
       "name": "Educational Community License v1.0",
@@ -265,7 +265,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/EFL-1.0/EFL-1.0.html",
+      "reference": "./EFL-1.0/EFL-1.0.html",
       "isDeprecatedLicenseId": false,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/EFL-1.0/",
       "name": "Eiffel Forum License v1.0",
@@ -277,7 +277,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/EFL-2.0/EFL-2.0.html",
+      "reference": "./EFL-2.0/EFL-2.0.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/EFL-2.0/",
@@ -290,7 +290,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/EPL-1.0/EPL-1.0.html",
+      "reference": "./EPL-1.0/EPL-1.0.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/EPL-1.0/",
@@ -303,7 +303,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/EPL-2.0/EPL-2.0.html",
+      "reference": "./EPL-2.0/EPL-2.0.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/EPL-2.0/",
@@ -316,7 +316,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/EUDatagrid/EUDatagrid.html",
+      "reference": "./EUDatagrid/EUDatagrid.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/EUDatagrid/",
@@ -329,7 +329,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/Entessa/Entessa.html",
+      "reference": "./Entessa/Entessa.html",
       "isDeprecatedLicenseId": false,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/Entessa/",
       "name": "Entessa Public License v1.0",
@@ -340,7 +340,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/Fair/Fair.html",
+      "reference": "./Fair/Fair.html",
       "isDeprecatedLicenseId": false,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/Fair/",
       "name": "Fair License",
@@ -352,7 +352,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/Frameworx-1.0/Frameworx-1.0.html",
+      "reference": "./Frameworx-1.0/Frameworx-1.0.html",
       "isDeprecatedLicenseId": false,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/Frameworx-1.0/",
       "name": "Frameworx Open License 1.0",
@@ -363,7 +363,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/GPL-2.0/GPL-2.0.html",
+      "reference": "./GPL-2.0/GPL-2.0.html",
       "isDeprecatedLicenseId": true,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/GPL-2.0/",
@@ -376,7 +376,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/GPL-2.0/GPL-2.0+.html",
+      "reference": "./GPL-2.0/GPL-2.0+.html",
       "isDeprecatedLicenseId": true,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/GPL-2.0/",
@@ -389,7 +389,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/GPL-2.0/GPL-2.0-only.html",
+      "reference": "./GPL-2.0/GPL-2.0-only.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/GPL-2.0/",
@@ -402,7 +402,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/GPL-2.0/GPL-2.0-or-later.html",
+      "reference": "./GPL-2.0/GPL-2.0-or-later.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/GPL-2.0/",
@@ -415,7 +415,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/GPL-3.0/GPL-3.0.html",
+      "reference": "./GPL-3.0/GPL-3.0.html",
       "isDeprecatedLicenseId": true,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/GPL-3.0/",
@@ -428,7 +428,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/GPL-3.0/GPL-3.0+.html",
+      "reference": "./GPL-3.0/GPL-3.0+.html",
       "isDeprecatedLicenseId": true,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/GPL-3.0/",
@@ -441,7 +441,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/GPL-3.0/GPL-3.0-only.html",
+      "reference": "./GPL-3.0/GPL-3.0-only.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/GPL-3.0/",
@@ -454,7 +454,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/GPL-3.0/GPL-3.0-or-later.html",
+      "reference": "./GPL-3.0/GPL-3.0-or-later.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/GPL-3.0/",
@@ -467,7 +467,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/GPL-3.0/GPL-3.0-with-GCC-exception.html",
+      "reference": "./GPL-3.0/GPL-3.0-with-GCC-exception.html",
       "isDeprecatedLicenseId": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/GPL-3.0/",
       "name": "GNU General Public License v3.0 w/GCC Runtime Library exception",
@@ -478,7 +478,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/HPND/HPND.html",
+      "reference": "./HPND/HPND.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/HPND/",
@@ -490,7 +490,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/IPL-1.0/IPL-1.0.html",
+      "reference": "./IPL-1.0/IPL-1.0.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/IPL-1.0/",
@@ -502,7 +502,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/ISC/ISC.html",
+      "reference": "./ISC/ISC.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/ISC/",
@@ -515,7 +515,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/Intel/Intel.html",
+      "reference": "./Intel/Intel.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/Intel/",
@@ -527,7 +527,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/LGPL-2.1/LGPL-2.1.html",
+      "reference": "./LGPL-2.1/LGPL-2.1.html",
       "isDeprecatedLicenseId": true,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/LGPL-2.1/",
@@ -540,7 +540,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/LGPL-2.1/LGPL-2.1+.html",
+      "reference": "./LGPL-2.1/LGPL-2.1+.html",
       "isDeprecatedLicenseId": true,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/LGPL-2.1/",
@@ -553,7 +553,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/LGPL-2.1/LGPL-2.1-only.html",
+      "reference": "./LGPL-2.1/LGPL-2.1-only.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/LGPL-2.1/",
@@ -566,7 +566,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/LGPL-2.1/LGPL-2.1-or-later.html",
+      "reference": "./LGPL-2.1/LGPL-2.1-or-later.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/LGPL-2.1/",
@@ -579,7 +579,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/LGPL-3.0/LGPL-3.0.html",
+      "reference": "./LGPL-3.0/LGPL-3.0.html",
       "isDeprecatedLicenseId": true,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/LGPL-3.0/",
@@ -592,7 +592,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/LGPL-3.0/LGPL-3.0+.html",
+      "reference": "./LGPL-3.0/LGPL-3.0+.html",
       "isDeprecatedLicenseId": true,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/LGPL-3.0/",
@@ -605,7 +605,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/LGPL-3.0/LGPL-3.0-only.html",
+      "reference": "./LGPL-3.0/LGPL-3.0-only.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/LGPL-3.0/",
@@ -618,7 +618,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/LGPL-3.0/LGPL-3.0-or-later.html",
+      "reference": "./LGPL-3.0/LGPL-3.0-or-later.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/LGPL-3.0/",
@@ -631,7 +631,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/LPL-1.0/LPL-1.0.html",
+      "reference": "./LPL-1.0/LPL-1.0.html",
       "isDeprecatedLicenseId": false,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/LPL-1.0/",
       "name": "Lucent Public License Version 1.0",
@@ -642,7 +642,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/LPL-1.02/LPL-1.02.html",
+      "reference": "./LPL-1.02/LPL-1.02.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/LPL-1.02/",
@@ -655,7 +655,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/MIT/MIT.html",
+      "reference": "./MIT/MIT.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/MIT/",
@@ -667,7 +667,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/MIT-0/MIT-0.html",
+      "reference": "./MIT-0/MIT-0.html",
       "isDeprecatedLicenseId": false,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/MIT-0/",
       "name": "MIT No Attribution",
@@ -680,7 +680,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/MPL-1.0/MPL-1.0.html",
+      "reference": "./MPL-1.0/MPL-1.0.html",
       "isDeprecatedLicenseId": false,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/MPL-1.0/",
       "name": "Mozilla Public License 1.0",
@@ -692,7 +692,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/MPL-1.1/MPL-1.1.html",
+      "reference": "./MPL-1.1/MPL-1.1.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/MPL-1.1/",
@@ -705,7 +705,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/MPL-2.0/MPL-2.0.html",
+      "reference": "./MPL-2.0/MPL-2.0.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/MPL-2.0/",
@@ -718,7 +718,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/MPL-2.0/MPL-2.0-no-copyleft-exception.html",
+      "reference": "./MPL-2.0/MPL-2.0-no-copyleft-exception.html",
       "isDeprecatedLicenseId": false,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/MPL-2.0/",
       "name": "Mozilla Public License 2.0 (no copyleft exception)",
@@ -730,7 +730,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/Motosoto/Motosoto.html",
+      "reference": "./Motosoto/Motosoto.html",
       "isDeprecatedLicenseId": false,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/Motosoto/",
       "name": "Motosoto License",
@@ -741,7 +741,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/NASA-1.3/NASA-1.3.html",
+      "reference": "./NASA-1.3/NASA-1.3.html",
       "isDeprecatedLicenseId": false,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/NASA-1.3/",
       "name": "NASA Open Source Agreement 1.3",
@@ -753,7 +753,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/NCSA/NCSA.html",
+      "reference": "./NCSA/NCSA.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/NCSA/",
@@ -766,7 +766,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/Naumen/Naumen.html",
+      "reference": "./Naumen/Naumen.html",
       "isDeprecatedLicenseId": false,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/Naumen/",
       "name": "Naumen Public License",
@@ -777,7 +777,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/Nokia/Nokia.html",
+      "reference": "./Nokia/Nokia.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/Nokia/",
@@ -789,7 +789,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/OCLC-2.0/OCLC-2.0.html",
+      "reference": "./OCLC-2.0/OCLC-2.0.html",
       "isDeprecatedLicenseId": false,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/OCLC-2.0/",
       "name": "OCLC Research Public License 2.0",
@@ -801,7 +801,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/OFL-1.1/OFL-1.1.html",
+      "reference": "./OFL-1.1/OFL-1.1.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/OFL-1.1/",
@@ -814,7 +814,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/OFL-1.1/OFL-1.1-RFN.html",
+      "reference": "./OFL-1.1/OFL-1.1-RFN.html",
       "isDeprecatedLicenseId": false,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/OFL-1.1/",
       "name": "SIL Open Font License 1.1 with Reserved Font Name",
@@ -826,7 +826,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/OFL-1.1/OFL-1.1-no-RFN.html",
+      "reference": "./OFL-1.1/OFL-1.1-no-RFN.html",
       "isDeprecatedLicenseId": false,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/OFL-1.1/",
       "name": "SIL Open Font License 1.1 with no Reserved Font Name",
@@ -838,7 +838,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/OGTSL/OGTSL.html",
+      "reference": "./OGTSL/OGTSL.html",
       "isDeprecatedLicenseId": false,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/OGTSL/",
       "name": "Open Group Test Suite License",
@@ -850,7 +850,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/OSL-2.0/OSL-2.0.html",
+      "reference": "./OSL-2.0/OSL-2.0.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/OSL-2.0/",
@@ -862,7 +862,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/PHP-3.0/PHP-3.0.html",
+      "reference": "./PHP-3.0/PHP-3.0.html",
       "isDeprecatedLicenseId": false,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/PHP-3.0/",
       "name": "PHP License v3.0",
@@ -874,7 +874,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/Python-2.0/Python-2.0.html",
+      "reference": "./Python-2.0/Python-2.0.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/Python-2.0/",
@@ -886,7 +886,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/QPL-1.0/QPL-1.0.html",
+      "reference": "./QPL-1.0/QPL-1.0.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/QPL-1.0/",
@@ -899,7 +899,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/RPL-1.1/RPL-1.1.html",
+      "reference": "./RPL-1.1/RPL-1.1.html",
       "isDeprecatedLicenseId": false,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/RPL-1.1/",
       "name": "Reciprocal Public License 1.1",
@@ -910,7 +910,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/RPSL-1.0/RPSL-1.0.html",
+      "reference": "./RPSL-1.0/RPSL-1.0.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/RPSL-1.0/",
@@ -923,7 +923,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/RSCPL/RSCPL.html",
+      "reference": "./RSCPL/RSCPL.html",
       "isDeprecatedLicenseId": false,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/RSCPL/",
       "name": "Ricoh Source Code Public License",
@@ -935,7 +935,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/SISSL/SISSL.html",
+      "reference": "./SISSL/SISSL.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/SISSL/",
@@ -948,7 +948,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/SPL-1.0/SPL-1.0.html",
+      "reference": "./SPL-1.0/SPL-1.0.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/SPL-1.0/",
@@ -960,7 +960,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/Sleepycat/Sleepycat.html",
+      "reference": "./Sleepycat/Sleepycat.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/Sleepycat/",
@@ -972,7 +972,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/Unlicense/Unlicense.html",
+      "reference": "./Unlicense/Unlicense.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/Unlicense/",
@@ -984,7 +984,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/VSL-1.0/VSL-1.0.html",
+      "reference": "./VSL-1.0/VSL-1.0.html",
       "isDeprecatedLicenseId": false,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/VSL-1.0/",
       "name": "Vovida Software License v1.0",
@@ -995,7 +995,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/Watcom-1.0/Watcom-1.0.html",
+      "reference": "./Watcom-1.0/Watcom-1.0.html",
       "isDeprecatedLicenseId": false,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/Watcom-1.0/",
       "name": "Sybase Open Watcom Public License 1.0",
@@ -1006,7 +1006,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/Xnet/Xnet.html",
+      "reference": "./Xnet/Xnet.html",
       "isDeprecatedLicenseId": false,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/Xnet/",
       "name": "X.Net License",
@@ -1017,7 +1017,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/ZPL-2.0/ZPL-2.0.html",
+      "reference": "./ZPL-2.0/ZPL-2.0.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/ZPL-2.0/",
@@ -1030,7 +1030,7 @@
       "isOsiApproved": true
     },
     {
-      "reference": "/Zlib/Zlib.html",
+      "reference": "./Zlib/Zlib.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/Zlib/",
