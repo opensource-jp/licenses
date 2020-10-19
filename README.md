@@ -45,6 +45,7 @@
 | [Historical Permission Notice and Disclaimer](HPND/HPND.md) | [HPND](HPND/HPND.md) |[原文](https://opensource.org/licenses/HPND)|  | 自由
 | [IBM Public License 1.0](IPL-1.0/IPL-1.0.md) | [IPL-1.0](IPL-1.0/IPL-1.0.md) |[原文](https://opensource.org/licenses/IPL-1.0)| 再不 | 非両立
 | [Intel Open Source License](Intel/Intel.md) | [Intel](Intel/Intel.md)  |[原文](https://opensource.org/licenses/Intel)| 廃止 | 自由
+| [ISC License](ISC/ISC.md) | [ISC](ISC/ISC.md)  |[原文](https://opensource.org/licenses/ISC)|   | 自由
 | [Jabber Open Source License](jabberpl/jabberpl.md) | [jabberpl](jabberpl/jabberpl.md) |[原文](https://opensource.org/licenses/jabberpl)|廃止 | 非両立
 | [Lucent Public License "Plan9", version 1.0](LPL-1.0/LPL-1.0.md) | [LPL-1.0](LPL-1.0/LPL-1.0.md)  |[原文](https://opensource.org/licenses/LPL-1.0)| 置換
 | [Lucent Public License Version 1.02](LPL-1.02/LPL-1.02.md) | [LPL-1.02](LPL-1.02/LPL-1.02.md) |[原文](https://opensource.org/licenses/LPL-1.02)|  | 非両立
@@ -74,6 +75,7 @@
 | [Sun Public License 1.0](SPL-1.0/SPL-1.0.md) | [SPL-1.0](SPL-1.0/SPL-1.0.md) |[原文](https://opensource.org/licenses/SPL-1.0)| 再不 | 非両立
 | [Sybase Open Watcom Public License 1.0](Watcom-1.0/Watcom-1.0.md) | [Watcom-1.0](Watcom-1.0/Watcom-1.0.md) |[原文](https://opensource.org/licenses/Watcom-1.0)| 再不 | 不自由
 | [University of Illinois/NCSA Open Source License](NCSA/NCSA.md) | [NCSA](NCSA/NCSA.md) |[原文](https://opensource.org/licenses/NCSA)|  | 自由
+| [The Unlicense](Unlicense/Unlicense.md) | [Unlicense](Unlicense/Unlicense.md) |[原文](https://opensource.org/licenses/Unlicense)|  | 自由
 | [Vovida Software License v. 1.0](VSL-1.0/VSL-1.0.md) | [VSL-1.0](VSL-1.0/VSL-1.0.md) |[原文](https://opensource.org/licenses/VSL-1.0)|
 | [wxWindows Library License](WXwindows/WXwindows.md) | [WXwindows](WXwindows/WXwindows.md) |[原文](https://opensource.org/licenses/WXwindows)| 再不 | 自由
 | [X.Net License](Xnet/Xnet.md) | [Xnet](Xnet/Xnet.md) |[原文](https://opensource.org/licenses/Xnet)|
