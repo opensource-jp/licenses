@@ -12,6 +12,7 @@
       "seeAlso": [
         "https://landley.net/toybox/license.html"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -23,6 +24,7 @@
       "seeAlso": [
         "https://opensource.org/licenses/attribution"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -35,6 +37,7 @@
       "seeAlso": [
         "https://wayback.archive.org/web/20060924134533/http://www.opensource.org/licenses/afl-2.0.txt"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -48,6 +51,7 @@
         "https://www.gnu.org/licenses/agpl.txt",
         "https://opensource.org/licenses/AGPL-3.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -61,6 +65,7 @@
         "https://www.gnu.org/licenses/agpl.txt",
         "https://opensource.org/licenses/AGPL-3.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -74,6 +79,7 @@
         "https://www.gnu.org/licenses/agpl.txt",
         "https://opensource.org/licenses/AGPL-3.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -86,6 +92,7 @@
       "seeAlso": [
         "https://www.opensource.apple.com/license/apsl/"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -99,6 +106,7 @@
         "https://apache.org/licenses/LICENSE-1.1",
         "https://opensource.org/licenses/Apache-1.1"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -112,6 +120,7 @@
         "https://www.apache.org/licenses/LICENSE-2.0",
         "https://opensource.org/licenses/Apache-2.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -123,6 +132,7 @@
       "seeAlso": [
         "https://opensource.org/licenses/Artistic-1.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -136,6 +146,7 @@
         "https://www.perlfoundation.org/artistic_license_2_0",
         "https://opensource.org/licenses/artistic-license-2.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -147,6 +158,7 @@
       "seeAlso": [
         "https://svnweb.freebsd.org/base/head/include/ifaddrs.h?revision\u003d326823"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -158,6 +170,7 @@
       "seeAlso": [
         "https://opensource.org/licenses/BSD-2-Clause"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -169,6 +182,7 @@
       "seeAlso": [
         "https://opensource.org/licenses/BSDplusPatent"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -181,6 +195,7 @@
       "seeAlso": [
         "https://opensource.org/licenses/BSD-3-Clause"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -192,6 +207,7 @@
       "seeAlso": [
         "https://fedoraproject.org/wiki/Licensing/LBNLBSD"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -205,6 +221,7 @@
         "https://www.boost.org/LICENSE_1_0.txt",
         "https://opensource.org/licenses/BSL-1.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -217,6 +234,7 @@
       "seeAlso": [
         "https://opensource.org/licenses/cddl1"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -228,6 +246,7 @@
       "seeAlso": [
         "https://opensource.org/licenses/CNRI-Python"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -240,6 +259,7 @@
       "seeAlso": [
         "https://opensource.org/licenses/CPL-1.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -251,6 +271,7 @@
       "seeAlso": [
         "https://opensource.org/licenses/CUA-OPL-1.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -262,6 +283,7 @@
       "seeAlso": [
         "https://opensource.org/licenses/ECL-1.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -274,6 +296,7 @@
         "https://www.eiffel-nice.org/license/forum.txt",
         "https://opensource.org/licenses/EFL-1.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -287,6 +310,7 @@
         "https://www.eiffel-nice.org/license/eiffel-forum-license-2.html",
         "https://opensource.org/licenses/EFL-2.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -300,6 +324,7 @@
         "https://www.eclipse.org/legal/epl-v10.html",
         "https://opensource.org/licenses/EPL-1.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -313,6 +338,7 @@
         "https://www.eclipse.org/legal/epl-2.0",
         "https://www.opensource.org/licenses/EPL-2.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -326,6 +352,7 @@
         "https://eu-datagrid.web.cern.ch/eu-datagrid/license.html",
         "https://opensource.org/licenses/EUDatagrid"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -337,6 +364,7 @@
       "seeAlso": [
         "https://opensource.org/licenses/Entessa"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -349,6 +377,7 @@
         "https://fairlicense.org/",
         "https://opensource.org/licenses/Fair"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -360,6 +389,7 @@
       "seeAlso": [
         "https://opensource.org/licenses/Frameworx-1.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -373,6 +403,7 @@
         "https://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html",
         "https://opensource.org/licenses/GPL-2.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -386,6 +417,7 @@
         "https://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html",
         "https://opensource.org/licenses/GPL-2.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -399,6 +431,7 @@
         "https://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html",
         "https://opensource.org/licenses/GPL-2.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -412,6 +445,7 @@
         "https://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html",
         "https://opensource.org/licenses/GPL-2.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -425,6 +459,7 @@
         "https://www.gnu.org/licenses/gpl-3.0-standalone.html",
         "https://opensource.org/licenses/GPL-3.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -438,6 +473,7 @@
         "https://www.gnu.org/licenses/gpl-3.0-standalone.html",
         "https://opensource.org/licenses/GPL-3.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -451,6 +487,7 @@
         "https://www.gnu.org/licenses/gpl-3.0-standalone.html",
         "https://opensource.org/licenses/GPL-3.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -464,6 +501,7 @@
         "https://www.gnu.org/licenses/gpl-3.0-standalone.html",
         "https://opensource.org/licenses/GPL-3.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -475,6 +513,7 @@
       "seeAlso": [
         "https://www.gnu.org/licenses/gcc-exception-3.1.html"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -487,6 +526,7 @@
       "seeAlso": [
         "https://opensource.org/licenses/HPND"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -499,6 +539,7 @@
       "seeAlso": [
         "https://opensource.org/licenses/IPL-1.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -512,6 +553,7 @@
         "https://www.isc.org/downloads/software-support-policy/isc-license/",
         "https://opensource.org/licenses/ISC"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -524,6 +566,7 @@
       "seeAlso": [
         "https://opensource.org/licenses/Intel"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -537,6 +580,7 @@
         "https://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html",
         "https://opensource.org/licenses/LGPL-2.1"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -550,6 +594,7 @@
         "https://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html",
         "https://opensource.org/licenses/LGPL-2.1"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -563,6 +608,7 @@
         "https://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html",
         "https://opensource.org/licenses/LGPL-2.1"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -576,6 +622,7 @@
         "https://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html",
         "https://opensource.org/licenses/LGPL-2.1"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -589,6 +636,7 @@
         "https://www.gnu.org/licenses/lgpl-3.0-standalone.html",
         "https://opensource.org/licenses/LGPL-3.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -602,6 +650,7 @@
         "https://www.gnu.org/licenses/lgpl-3.0-standalone.html",
         "https://opensource.org/licenses/LGPL-3.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -615,6 +664,7 @@
         "https://www.gnu.org/licenses/lgpl-3.0-standalone.html",
         "https://opensource.org/licenses/LGPL-3.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -628,6 +678,7 @@
         "https://www.gnu.org/licenses/lgpl-3.0-standalone.html",
         "https://opensource.org/licenses/LGPL-3.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -639,6 +690,7 @@
       "seeAlso": [
         "https://opensource.org/licenses/LPL-1.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -652,6 +704,7 @@
         "https://plan9.bell-labs.com/plan9/license.html",
         "https://opensource.org/licenses/LPL-1.02"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -664,6 +717,7 @@
       "seeAlso": [
         "https://opensource.org/licenses/MIT"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -677,6 +731,7 @@
         "https://romanrm.net/mit-zero",
         "https://github.com/awsdocs/aws-cloud9-user-guide/blob/master/LICENSE-SAMPLECODE"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -689,6 +744,7 @@
         "https://www.mozilla.org/MPL/MPL-1.0.html",
         "https://opensource.org/licenses/MPL-1.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -702,6 +758,7 @@
         "https://www.mozilla.org/MPL/MPL-1.1.html",
         "https://opensource.org/licenses/MPL-1.1"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -715,6 +772,7 @@
         "https://www.mozilla.org/MPL/2.0/",
         "https://opensource.org/licenses/MPL-2.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -727,6 +785,7 @@
         "https://www.mozilla.org/MPL/2.0/",
         "https://opensource.org/licenses/MPL-2.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -738,6 +797,7 @@
       "seeAlso": [
         "https://opensource.org/licenses/Motosoto"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -750,6 +810,7 @@
         "https://ti.arc.nasa.gov/opensource/nosa/",
         "https://opensource.org/licenses/NASA-1.3"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -763,6 +824,7 @@
         "https://otm.illinois.edu/uiuc_openSource",
         "https://opensource.org/licenses/NCSA"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -774,6 +836,7 @@
       "seeAlso": [
         "https://opensource.org/licenses/Naumen"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -786,6 +849,7 @@
       "seeAlso": [
         "https://opensource.org/licenses/nokia"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -798,6 +862,7 @@
         "https://www.oclc.org/research/activities/software/license/v2final.htm",
         "https://opensource.org/licenses/OCLC-2.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -811,6 +876,7 @@
         "https://scripts.sil.org/cms/scripts/page.php?item_id\u003dOFL_web",
         "https://opensource.org/licenses/OFL-1.1"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -823,6 +889,7 @@
         "https://scripts.sil.org/cms/scripts/page.php?item_id\u003dOFL_web",
         "https://opensource.org/licenses/OFL-1.1"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -835,6 +902,7 @@
         "https://scripts.sil.org/cms/scripts/page.php?item_id\u003dOFL_web",
         "https://opensource.org/licenses/OFL-1.1"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -847,6 +915,7 @@
         "https://www.opengroup.org/testing/downloads/The_Open_Group_TSL.txt",
         "https://opensource.org/licenses/OGTSL"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -859,6 +928,7 @@
       "seeAlso": [
         "https://web.archive.org/web/20041020171434/http://www.rosenlaw.com/osl2.0.html"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -871,6 +941,7 @@
         "https://www.php.net/license/3_0.txt",
         "https://opensource.org/licenses/PHP-3.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -883,6 +954,7 @@
       "seeAlso": [
         "https://opensource.org/licenses/Python-2.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -896,6 +968,7 @@
         "https://doc.qt.nokia.com/3.3/license.html",
         "https://opensource.org/licenses/QPL-1.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -907,6 +980,7 @@
       "seeAlso": [
         "https://opensource.org/licenses/RPL-1.1"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -920,6 +994,7 @@
         "https://helixcommunity.org/content/rpsl",
         "https://opensource.org/licenses/RPSL-1.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -932,6 +1007,7 @@
         "https://wayback.archive.org/web/20060715140826/http://www.risource.org/RPL/RPL-1.0A.shtml",
         "https://opensource.org/licenses/RSCPL"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -945,6 +1021,7 @@
         "https://www.openoffice.org/licenses/sissl_license.html",
         "https://opensource.org/licenses/SISSL"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -957,6 +1034,7 @@
       "seeAlso": [
         "https://opensource.org/licenses/SPL-1.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -969,6 +1047,7 @@
       "seeAlso": [
         "https://opensource.org/licenses/Sleepycat"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -981,6 +1060,7 @@
       "seeAlso": [
         "https://unlicense.org/"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -992,6 +1072,7 @@
       "seeAlso": [
         "https://opensource.org/licenses/VSL-1.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -1003,6 +1084,7 @@
       "seeAlso": [
         "https://opensource.org/licenses/Watcom-1.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -1014,6 +1096,7 @@
       "seeAlso": [
         "https://opensource.org/licenses/Xnet"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -1027,6 +1110,7 @@
         "https://old.zope.org/Resources/License/ZPL-2.0",
         "https://opensource.org/licenses/ZPL-2.0"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
     {
@@ -1040,6 +1124,7 @@
         "https://www.zlib.net/zlib_license.html",
         "https://opensource.org/licenses/Zlib"
       ],
+      "isTranslatedJa": true,
       "isOsiApproved": true
     },
   ],
