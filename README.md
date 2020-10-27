@@ -58,6 +58,7 @@
 | [Mozilla Public License 2.0](MPL-2.0/MPL-2.0.md) | [MPL-2.0](MPL-2.0/MPL-2.0.md)  |[原文](https://opensource.org/licenses/MPL-2.0)| 人気 | 自由
 | [NASA Open Source Agreement 1.3](NASA-1.3/NASA-1.3.md) | [NASA-1.3](NASA-1.3/NASA-1.3.md) |[原文](https://opensource.org/licenses/NASA-1.3)| 特定 | 不自由
 | [Naumen Public License](Naumen/Naumen.md) | [Naumen](Naumen/Naumen.md) |[原文](https://opensource.org/licenses/Naumen)| 再不 |
+| [Nethack General Public License](NGPL/NGPL.md) | [NGPL](NGPL/NGPL.md) |[原文](https://opensource.org/licenses/NGPL)| 再不 |
 | [Nokia Open Source License](Nokia/Nokia.md) | [Nokia](Nokia/Nokia.md) |[原文](https://opensource.org/licenses/Nokia)| 再不 | 非両立
 | [NTP License](NTP/NTP.md) | [NTP](NTP/NTP.md) |[原文](https://opensource.org/licenses/NTP)|  | 
 | [CLC Research Public License 2.0](OCLC-2.0/OCLC-2.0.md) | [OCLC-2.0](OCLC-2.0/OCLC-2.0.md) |[原文](https://opensource.org/licenses/OCLC-2.0)| 再不 |

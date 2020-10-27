@@ -840,6 +840,18 @@
       "isOsiApproved": true
     },
     {
+      "reference": "./NGPL/NGPL.html",
+      "isDeprecatedLicenseId": false,
+      "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/NGPL/",
+      "name": "Nethack General Public License",
+      "licenseId": "NGPL",
+      "seeAlso": [
+        "https://opensource.org/licenses/NGPL"
+      ],
+      "isTranslatedJa": true,
+      "isOsiApproved": true
+    },
+    {
       "reference": "./Nokia/Nokia.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
