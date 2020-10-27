@@ -853,6 +853,18 @@
       "isOsiApproved": true
     },
     {
+      "reference": "./NTP/NTP.html",
+      "isDeprecatedLicenseId": false,
+      "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/NTP/",
+      "name": "NTP License",
+      "licenseId": "NTP",
+      "seeAlso": [
+        "https://opensource.org/licenses/NTP"
+      ],
+      "isTranslatedJa": true,
+      "isOsiApproved": true
+    },
+    {
       "reference": "./OCLC-2.0/OCLC-2.0.html",
       "isDeprecatedLicenseId": false,
       "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/OCLC-2.0/",
@@ -914,6 +926,18 @@
       "seeAlso": [
         "https://www.opengroup.org/testing/downloads/The_Open_Group_TSL.txt",
         "https://opensource.org/licenses/OGTSL"
+      ],
+      "isTranslatedJa": true,
+      "isOsiApproved": true
+    },
+    {
+      "reference": "./OLDAP-2.8/OLDAP-2.8.html",
+      "isDeprecatedLicenseId": false,
+      "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/OLDAP-2.8/",
+      "name": "Open LDAP Public License v2.8",
+      "licenseId": "OLDAP-2.8",
+      "seeAlso": [
+        "http://www.openldap.org/software/release/license.html"
       ],
       "isTranslatedJa": true,
       "isOsiApproved": true
