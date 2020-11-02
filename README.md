@@ -47,6 +47,7 @@
 | [Intel Open Source License](Intel/Intel.md) | [Intel](Intel/Intel.md)  |[原文](https://opensource.org/licenses/Intel)| 廃止 | 自由
 | [ISC License](ISC/ISC.md) | [ISC](ISC/ISC.md)  |[原文](https://opensource.org/licenses/ISC)|   | 自由
 | [Jabber Open Source License](jabberpl/jabberpl.md) | [jabberpl](jabberpl/jabberpl.md) |[原文](https://opensource.org/licenses/jabberpl)|廃止 | 非両立
+| [Lawrence Berkeley National Labs BSD Variant License](BSD-3-Clause-LBNL/BSD-3-Clause-LBNL.md) | [BSD-3-Clause-LBNL](BSD-3-Clause-LBNL/BSD-3-Clause-LBNL.md) |[原文](https://opensource.org/BSD-3-Clause-LBNL)| 特定 |
 | [Lucent Public License "Plan9", version 1.0](LPL-1.0/LPL-1.0.md) | [LPL-1.0](LPL-1.0/LPL-1.0.md)  |[原文](https://opensource.org/licenses/LPL-1.0)| 置換
 | [Lucent Public License Version 1.02](LPL-1.02/LPL-1.02.md) | [LPL-1.02](LPL-1.02/LPL-1.02.md) |[原文](https://opensource.org/licenses/LPL-1.02)| 重複 | 非両立
 | [MIT License](MIT/MIT.md) | [MIT](MIT/MIT.md)  |[原文](https://opensource.org/licenses/MIT)| 人気 | 自由
@@ -56,6 +57,7 @@
 | [Mozilla Public License 1.0](MPL-1.0/MPL-1.0.md) | [MPL-1.0](MPL-1.0/MPL-1.0.md)  |[原文](https://opensource.org/licenses/MPL-1.0)| 置換 | 非両立
 | [Mozilla Public License 1.1](MPL-1.1/MPL-1.1.md) | [MPL-1.1](MPL-1.1/MPL-1.1.md)  |[原文](https://opensource.org/licenses/MPL-1.1)| 置換 | 非両立
 | [Mozilla Public License 2.0](MPL-2.0/MPL-2.0.md) | [MPL-2.0](MPL-2.0/MPL-2.0.md)  |[原文](https://opensource.org/licenses/MPL-2.0)| 人気 | 自由
+| [Multics License](Multics/Multics.md) | [Multics](Multics/Multics.md) |[原文](https://opensource.org/licenses/Multics)| 再不 |
 | [NASA Open Source Agreement 1.3](NASA-1.3/NASA-1.3.md) | [NASA-1.3](NASA-1.3/NASA-1.3.md) |[原文](https://opensource.org/licenses/NASA-1.3)| 特定 | 不自由
 | [Naumen Public License](Naumen/Naumen.md) | [Naumen](Naumen/Naumen.md) |[原文](https://opensource.org/licenses/Naumen)| 再不 |
 | [Nethack General Public License](NGPL/NGPL.md) | [NGPL](NGPL/NGPL.md) |[原文](https://opensource.org/licenses/NGPL)| 再不 |
