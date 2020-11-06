@@ -30,6 +30,7 @@
 | [CUA Office Public License Version 1.0](CUA-OPL-1.0/CUA-OPL-1.0.md) | [CUA-OPL-1.0](CUA-OPL-1.0/CUA-OPL-1.0.md)  |[原文](https://opensource.org/licenses/CUA-OPL-1.0)| 廃止
 | [Eclipse Public License 1.0](EPL-1.0/EPL-1.0.md) | [EPL-1.0](EPL-1.0/EPL-1.0.md)  |[原文](https://opensource.org/licenses/EPL-1.0)| 置換 | 非両立
 | [Eclipse Public License 2.0](EPL-2.0/EPL-2.0.md) | [EPL-2.0](EPL-2.0/EPL-2.0.md)  |[原文](https://opensource.org/licenses/EPL-2.0)| 人気 | 非両立
+| [eCos License version 2.0](eCos-2.0/eCos-2.0.md) | [eCos-2.0](eCos-2.0/eCos-2.0.md) |[原文](https://opensource.org/licenses/eCos-2.0)| 再不 | 自由
 | [Educational Community License, Version 1.0](ECL-1.0/ECL-1.0.md) | [ECL-1.0](ECL-1.0/ECL-1.0.md)  |[原文](https://opensource.org/licenses/ECL-1.0)| 置換
 | [Eiffel Forum License V1.0](EFL-1.0/EFL-1.0.md) | [EFL-1.0](EFL-1.0/EFL-1.0.md)  |[原文](https://opensource.org/licenses/EFL-1.0)| 置換
 | [Eiffel Forum License V2.0](EFL-2.0/EFL-2.0.md) | [EFL-2.0](EFL-2.0/EFL-2.0.md)  |[原文](https://opensource.org/licenses/EFL-2.0)| 重複 | 自由
@@ -45,6 +46,7 @@
 | [Historical Permission Notice and Disclaimer](HPND/HPND.md) | [HPND](HPND/HPND.md) |[原文](https://opensource.org/licenses/HPND)| 重複 | 自由
 | [IBM Public License 1.0](IPL-1.0/IPL-1.0.md) | [IPL-1.0](IPL-1.0/IPL-1.0.md) |[原文](https://opensource.org/licenses/IPL-1.0)| 再不 | 非両立
 | [Intel Open Source License](Intel/Intel.md) | [Intel](Intel/Intel.md)  |[原文](https://opensource.org/licenses/Intel)| 廃止 | 自由
+| [IPA Font License](IPA/IPA.md) | [IPA](IPA/IPA.md) |[原文](https://opensource.org/licenses/IPA)| 特定 | 非両立
 | [ISC License](ISC/ISC.md) | [ISC](ISC/ISC.md)  |[原文](https://opensource.org/licenses/ISC)|   | 自由
 | [Jabber Open Source License](jabberpl/jabberpl.md) | [jabberpl](jabberpl/jabberpl.md) |[原文](https://opensource.org/licenses/jabberpl)|廃止 | 非両立
 | [Lawrence Berkeley National Labs BSD Variant License](BSD-3-Clause-LBNL/BSD-3-Clause-LBNL.md) | [BSD-3-Clause-LBNL](BSD-3-Clause-LBNL/BSD-3-Clause-LBNL.md) |[原文](https://opensource.org/BSD-3-Clause-LBNL)| 特定 |
@@ -110,4 +112,5 @@
 * GNU系ライセンス：八田 真行
 * QPL-1.0：堀川 久
 * Artistic-1.0：大原 雄馬
+* IPA: 日本語も正文
 * その他：2005年2月までの翻訳はVA Linux Systems Japan株式会社の支援で株式会社トップスタジオと佐渡 秀治が担当。以降は佐渡 秀治、朝田 環。

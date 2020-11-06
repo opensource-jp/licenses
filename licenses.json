@@ -343,6 +343,20 @@
       "isOsiApproved": true
     },
     {
+      "reference": "./eCos-2.0/eCos-2.0.html",
+      "isDeprecatedLicenseId": true,
+      "isFsfLibre": true,
+      "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/eCos-2.0/",
+      "name": "eCos license version 2.0",
+      "licenseId": "eCos-2.0",
+      "seeAlso": [
+        "https://www.gnu.org/licenses/ecos-license.html",
+        "https://www.opensource.org/licenses/eCos-2.0"
+      ],
+      "isTranslatedJa": true,
+      "isOsiApproved": true
+    },
+    {
       "reference": "./EUDatagrid/EUDatagrid.html",
       "isDeprecatedLicenseId": false,
       "isFsfLibre": true,
@@ -417,7 +431,7 @@
       "seeAlso": [
         "https://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html",
         "https://opensource.org/licenses/GPL-2.0"
-      ],
+      ],Intel Open Source License
       "isTranslatedJa": true,
       "isOsiApproved": true
     },
@@ -553,6 +567,19 @@
       "seeAlso": [
         "https://www.isc.org/downloads/software-support-policy/isc-license/",
         "https://opensource.org/licenses/ISC"
+      ],
+      "isTranslatedJa": true,
+      "isOsiApproved": true
+    },
+    {
+      "reference": "./IPA/IPA.html",
+      "isDeprecatedLicenseId": false,
+      "isFsfLibre": true,
+      "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/IPA/",
+      "name": "IPA Font License",
+      "licenseId": "IPA",
+      "seeAlso": [
+        "https://opensource.org/licenses/IPA"
       ],
       "isTranslatedJa": true,
       "isOsiApproved": true
