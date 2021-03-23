@@ -59,6 +59,7 @@
 | [Mozilla Public License 1.0](MPL-1.0/MPL-1.0.md) | [MPL-1.0](MPL-1.0/MPL-1.0.md)  |[原文](https://opensource.org/licenses/MPL-1.0)| 置換 | 非両立
 | [Mozilla Public License 1.1](MPL-1.1/MPL-1.1.md) | [MPL-1.1](MPL-1.1/MPL-1.1.md)  |[原文](https://opensource.org/licenses/MPL-1.1)| 置換 | 非両立
 | [Mozilla Public License 2.0](MPL-2.0/MPL-2.0.md) | [MPL-2.0](MPL-2.0/MPL-2.0.md)  |[原文](https://opensource.org/licenses/MPL-2.0)| 人気 | 自由
+| [Mulan Permissive Software License v2](MulanPSL-2.0/MulanPSL-2.0.md) | [MulanPSL-2.0](MulanPSL-2.0/MulanPSL-2.0.md)  |[原文](https://opensource.org/licenses/MulanPSL-2.0)| 国際 | 
 | [Multics License](Multics/Multics.md) | [Multics](Multics/Multics.md) |[原文](https://opensource.org/licenses/Multics)| 再不 |
 | [NASA Open Source Agreement 1.3](NASA-1.3/NASA-1.3.md) | [NASA-1.3](NASA-1.3/NASA-1.3.md) |[原文](https://opensource.org/licenses/NASA-1.3)| 特定 | 不自由
 | [Naumen Public License](Naumen/Naumen.md) | [Naumen](Naumen/Naumen.md) |[原文](https://opensource.org/licenses/Naumen)| 再不 |
@@ -96,6 +97,7 @@
    * 重複：より一般的なライセンスと重複するライセンス
    * 特定：著作権等の特定の各国の規則に対しての特別なニーズを満たすためのライセンス
    * 再不：作成者に固有のものであり、他のユーザーが再利用することができないライセンス
+   * 国際：英語圏以外に適用されるライセンス
    * 廃止：自主的に廃止されたライセンス
 
 * FSF区分：FSFによる自由を尺度にした区分

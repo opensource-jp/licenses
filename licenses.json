@@ -1,6 +1,6 @@
 {
-  "licenseListVersion": "v20201106-jp",
-  "releaseDate": "2020-11-06",
+  "licenseListVersion": "v20210323-jp",
+  "releaseDate": "2021-03-23",
   "referencesSiteUrl": "https://licenses.opensource.jp/",
   "licenses": [
     {
@@ -812,6 +812,20 @@
       "seeAlso": [
         "https://www.mozilla.org/MPL/2.0/",
         "https://opensource.org/licenses/MPL-2.0"
+      ],
+      "isTranslatedJa": true,
+      "isOsiApproved": true
+    },
+    {
+      "reference": "./MulanPSL-2.0/MulanPSL-2.0.html",
+      "isDeprecatedLicenseId": false,
+      "isFsfLibre": false,
+      "detailsUrl": "https://github.com/opensource-jp/licenses/tree/main/MulanPSL-2.0/",
+      "name": "Mulan Permissive Software License v2",
+      "licenseId": "MulanPSL-2.0",
+      "seeAlso": [
+        "https://license.coscl.org.cn/MulanPSL2/",
+        "https://opensource.org/licenses/MulanPSL-2.0"
       ],
       "isTranslatedJa": true,
       "isOsiApproved": true
