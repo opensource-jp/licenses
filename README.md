@@ -116,3 +116,9 @@
 * Artistic-1.0：大原 雄馬
 * IPA: 日本語も正文
 * その他：2005年2月までの翻訳はVA Linux Systems Japan株式会社の支援で株式会社トップスタジオと佐渡 秀治が担当。以降は佐渡 秀治、朝田 環。
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+
